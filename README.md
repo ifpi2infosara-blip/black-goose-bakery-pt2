@@ -1,4 +1,4 @@
-# Black Goose Bakery - Atividade Prática 02
+# Black Goose Bakery - Atividade
 
 ## Respostas das perguntas "Para pensar."
 
